@@ -4,7 +4,7 @@ This is an iOS app built using XCode and Swift that lets students introduce them
 
 ### App Walk-though
 
-<img src="codepath.gif" width=200><br>
+<img src="codepath.gif" width=300><br>
 
 ### Required Features
 
